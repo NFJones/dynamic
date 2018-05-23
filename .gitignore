@@ -1,0 +1,11 @@
+*.vs*
+out/*
+*.pyc
+*~
+*.out
+*.so
+*.code*
+build/*
+bin/*
+*vcxproj*
+test/*.cpp
